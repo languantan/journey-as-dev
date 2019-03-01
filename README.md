@@ -6,11 +6,11 @@ Use the COMMIT Diffs to see the difference.
 
 # Development work
 
-- Assigned tickets to do
-- Senior dev told me to write test, showed me fizz-buzz
-- Read articles about Unit Tests
-- Learned a new term, Test Driven Development. Sounds cool, but hard to do
-- Learned Git
+- Assigned tickets to do, give estimates so that PM can track better
+- New joiner came, I told him to write tests, showed him fizz-buzz
+- Share articles about Unit Tests
+- Learned a new term, Pull Requests
+- Learned git pull --rebase
 
 # Choice of IDE
 
