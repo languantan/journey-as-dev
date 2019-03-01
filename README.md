@@ -11,7 +11,6 @@ Use the COMMIT Diffs to see the difference.
 - Read articles about Unit Tests
 - Learned a new term, Test Driven Development. Sounds cool, but hard to do
 - Learned Git
-- Learned Git
 
 # Choice of IDE
 
